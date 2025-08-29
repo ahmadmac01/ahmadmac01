@@ -1,32 +1,39 @@
-# Hi there, I'm Muhammad Ahmad! 👋
+# 👋 Hi, I'm Muhammad Ahmad  
 
 Welcome to my GitHub profile!  
-I'm an AI Intern at Musketeers Tech and a passionate Software Engineer dedicated to learning, building, and sharing innovative solutions.
-
-## 🚀 About Me
-
-- 💼 AI Intern @ Musketeers Tech
-- 💻 Software Engineer with a love for tackling challenging problems
-- 🌱 Always learning new technologies and frameworks
-- 🤝 Open to collaborating on impactful projects
-
-## 🛠️ Tech Interests
-
-- Artificial Intelligence & Machine Learning
-- Web Development (JavaScript, Python, Node.js, React)
-- Automation & Scripting
-- Open Source Contributions
-
-## 📈 GitHub Stats
-
-![ahmadmac01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadmac01&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmac01&layout=compact&theme=github_dark)
-
-## 📫 How to Reach Me
-
-- [GitHub Profile](https://github.com/ahmadmac01)
-- Email: your.email@example.com
+I'm an **AI Intern at Musketeers Tech Pvt Ltd** and a **Software Engineer** with a deep interest in **Artificial Intelligence, Machine Learning, and Automation**. I enjoy building impactful projects, contributing to open source, and sharing knowledge with the tech community.  
 
 ---
 
-Thanks for visiting my profile! 🚀 Let’s connect and build something amazing together!
+## 🚀 About Me
+- 💼 Currently working as an **AI Intern @ Musketeers Tech**  
+- 🎓 Graduate in **Software Engineering (UET Taxila,Pakistan)**  
+- 🌱 Focused on **AI Engineering and Natural Language Processing (NLP)**  
+- 🤝 Open to collaborating on **AI, automation, and open-source projects**  
+- 🌍 Active in **AI community leadership & mentorship**  
+
+---
+
+## 🛠️ Areas of Interest
+- 🤖 **Artificial Intelligence & Machine Learning**  
+- 🗣️ **Natural Language Processing & LLMs**  
+- ⚡ **Automation & Workflow Optimization**  
+- 🌐 **Open Source Contributions & Community Building**  
+
+---
+
+## 📊 GitHub Stats
+![Muhammad Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadmac01&show_icons=true&theme=tokyonight)  
+
+
+---
+
+## 📫 Connect with Me
+- 🌐 Portfolio: [engr-muhammad-ahmad.me](https://www.engr-muhammad-ahmad.me)  
+- 💼 LinkedIn: [linkedin.com/in/engr-muhammad-ahmad](https://www.linkedin.com/in/ahmadmac01)  
+- 📧 Email: **ahmadmac510@gmail.com**  
+- 🐙 GitHub: [github.com/ahmadmac01](https://github.com/ahmadmac01)  
+
+---
+
+✨ _"Always learning, always building — shaping tomorrow with AI."_  
