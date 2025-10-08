@@ -8,7 +8,7 @@ I'm an **AI Intern at Musketeers Tech Pvt Ltd** and a **Software Engineer** with
 ## 🚀 About Me
 - 💼 Currently working as an **AI Intern @ Musketeers Tech**  
 - 🎓 Graduate in **Software Engineering (UET Taxila,Pakistan)**  
-- 🌱 Focused on **AI Engineering and Natural Language Processing (NLP)**  
+- 🌱 Focused on **AI specialy on Natural Language Processing (NLP)**  
 - 🤝 Open to collaborating on **AI, automation, and open-source projects**  
 - 🌍 Active in **AI community leadership & mentorship**  
 
