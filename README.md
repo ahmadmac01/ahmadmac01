@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Engineer Muhammad Ahmad  
 
 Welcome to my GitHub profile!  
-I'm an **AI Intern at Musketeers Tech Pvt Ltd** and a **Software Engineer** with a deep interest in **Artificial Intelligence, Machine Learning, and Automation**. I enjoy building impactful projects, contributing to open source, and sharing knowledge with the tech community.  
+I'm an **Former Junior AI Engineer at Musketeers Tech Pvt Ltd** and a **Software Engineer** with a deep interest in **Artificial Intelligence, Machine Learning, and Automation**. I enjoy building impactful projects, contributing to open source, and sharing knowledge with the tech community.  
 
 ---
 
@@ -22,13 +22,7 @@ I'm an **AI Intern at Musketeers Tech Pvt Ltd** and a **Software Engineer** with
 
 ---
 
-## 📊 GitHub Stats
-![Muhammad Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadmac01&show_icons=true&theme=tokyonight)  
 
-
----
-
-## 📫 Connect with Me
 - 🌐 Portfolio: [engr-muhammad-ahmad.me](https://www.engr-muhammad-ahmad.me)  
 - 💼 LinkedIn: [linkedin.com/in/engr-muhammad-ahmad](https://www.linkedin.com/in/ahmadmac01)  
 - 📧 Email: **ahmadmac510@gmail.com**  
