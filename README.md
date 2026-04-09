@@ -6,7 +6,7 @@ I'm an **Former Junior AI Engineer at Musketeers Tech Pvt Ltd** and a **Software
 ---
 
 ## 🚀 About Me
-- 💼 Currently working as an **AI Intern @ Musketeers Tech**  
+- 💼 Work as an **AI Intern @ Musketeers Tech**  
 - 🎓 Graduate in **Software Engineering (UET Taxila,Pakistan)**  
 - 🌱 Focused on **AI specialy on Natural Language Processing (NLP)**  
 - 🤝 Open to collaborating on **AI, automation, and open-source projects**  
@@ -23,7 +23,6 @@ I'm an **Former Junior AI Engineer at Musketeers Tech Pvt Ltd** and a **Software
 ---
 
 
-- 🌐 Portfolio: [engr-muhammad-ahmad.me](https://www.engr-muhammad-ahmad.me)  
 - 💼 LinkedIn: [linkedin.com/in/engr-muhammad-ahmad](https://www.linkedin.com/in/ahmadmac01)  
 - 📧 Email: **ahmadmac510@gmail.com**  
 - 🐙 GitHub: [github.com/ahmadmac01](https://github.com/ahmadmac01)  
