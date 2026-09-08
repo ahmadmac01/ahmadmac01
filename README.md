@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Engineer Muhammad Ahmad  
 
 Welcome to my GitHub profile!  
-I'm an **Former Junior AI Engineer at Musketeers Tech Pvt Ltd** and a **Software Engineer** with a deep interest in **Artificial Intelligence, Machine Learning, and Automation**. I enjoy building impactful projects, contributing to open source, and sharing knowledge with the tech community.  
+I'm an **AI Engineer at Musketeers Tech Pvt Ltd** and a **Software Engineer** with a deep interest in **Artificial Intelligence, Machine Learning, and Automation**. I enjoy building impactful projects, contributing to open source, and sharing knowledge with the tech community.  
 
 ---
 
